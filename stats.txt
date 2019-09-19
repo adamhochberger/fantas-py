@@ -1,0 +1,193 @@
+{
+    "gameId": 1,
+    "id": 828182,
+    "members": [
+        {
+            "displayName": "ideazy",
+            "id": "{336F405F-8707-40E6-AF40-5F8707B0E6C4}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "carson8926357",
+            "id": "{43AA7FE8-1C8E-4446-AFB4-2A7E753AC487}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "DylMan56",
+            "id": "{4657803A-CB76-4558-ACF2-A5AF49BA7973}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "qbn1991284575",
+            "id": "{55336532-2355-4948-859B-A70C4AA1BA07}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "adamho4539909",
+            "id": "{6F54577E-8DA7-42DE-BF11-5B2F0B3302F3}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "jfalas3191775",
+            "id": "{7D3F331A-4643-4162-85F7-055174571688}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "VincentCassella",
+            "id": "{82817ED1-9002-4A7E-BB80-58DBCF72592D}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "nickdi8943038",
+            "id": "{8D5FE22F-102D-4326-AA2B-275712637B25}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "caliswagg621",
+            "id": "{B001CFFB-AE64-44EA-81CF-FBAE6404EAEB}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "nemeth7667703",
+            "id": "{B01438E3-E868-485B-8E38-396F4EDCE019}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "martyman63",
+            "id": "{CF0FF41B-CCA7-4345-826B-ED154B1769DC}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "An Improved Daniel",
+            "id": "{E3D50D8F-8B6F-44CC-950D-8F8B6F44CC4A}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "downfa9493423",
+            "id": "{F896C944-3169-40EC-BC9F-9613098DAC59}",
+            "isLeagueManager": false
+        }
+    ],
+    "scoringPeriodId": 1,
+    "seasonId": 2019,
+    "segmentId": 0,
+    "settings": {
+        "name": "Go Gatas!"
+    },
+    "status": {
+        "currentMatchupPeriod": 1,
+        "isActive": true,
+        "latestScoringPeriod": 1
+    },
+    "teams": [
+        {
+            "abbrev": "PAT",
+            "id": 1,
+            "location": "My Kingdom",
+            "nickname": "for Mahomes",
+            "owners": [
+                "{CF0FF41B-CCA7-4345-826B-ED154B1769DC}"
+            ]
+        },
+        {
+            "abbrev": "snap",
+            "id": 2,
+            "location": "my life is a ",
+            "nickname": "cry for help",
+            "owners": [
+                "{F896C944-3169-40EC-BC9F-9613098DAC59}"
+            ]
+        },
+        {
+            "abbrev": "MR.B",
+            "id": 3,
+            "location": "Mr.",
+            "nickname": "Buttons",
+            "owners": [
+                "{43AA7FE8-1C8E-4446-AFB4-2A7E753AC487}"
+            ]
+        },
+        {
+            "abbrev": "DCP",
+            "id": 4,
+            "location": "Tolbert",
+            "nickname": "504",
+            "owners": [
+                "{4657803A-CB76-4558-ACF2-A5AF49BA7973}"
+            ]
+        },
+        {
+            "abbrev": "FALA",
+            "id": 5,
+            "location": "Le'Veon the ",
+            "nickname": "JETS?",
+            "owners": [
+                "{7D3F331A-4643-4162-85F7-055174571688}"
+            ]
+        },
+        {
+            "abbrev": "LUCK",
+            "id": 6,
+            "location": "Don\u2019t Need",
+            "nickname": "Luck",
+            "owners": [
+                "{336F405F-8707-40E6-AF40-5F8707B0E6C4}"
+            ]
+        },
+        {
+            "abbrev": "3LI",
+            "id": 7,
+            "location": "3LI",
+            "nickname": "Manning",
+            "owners": [
+                "{82817ED1-9002-4A7E-BB80-58DBCF72592D}"
+            ]
+        },
+        {
+            "abbrev": "NP",
+            "id": 8,
+            "location": "Clever",
+            "nickname": "Team Name",
+            "owners": [
+                "{E3D50D8F-8B6F-44CC-950D-8F8B6F44CC4A}"
+            ]
+        },
+        {
+            "abbrev": "CYD",
+            "id": 9,
+            "location": "I Will ",
+            "nickname": "Not Lose ",
+            "owners": [
+                "{B001CFFB-AE64-44EA-81CF-FBAE6404EAEB}"
+            ]
+        },
+        {
+            "abbrev": "HANK",
+            "id": 10,
+            "location": "King of",
+            "nickname": "the Hill",
+            "owners": [
+                "{8D5FE22F-102D-4326-AA2B-275712637B25}",
+                "{6F54577E-8DA7-42DE-BF11-5B2F0B3302F3}"
+            ]
+        },
+        {
+            "abbrev": "KUNT",
+            "id": 11,
+            "location": "Karen",
+            "nickname": "Hunt",
+            "owners": [
+                "{B01438E3-E868-485B-8E38-396F4EDCE019}"
+            ]
+        },
+        {
+            "abbrev": "QBN",
+            "id": 12,
+            "location": "Im Already",
+            "nickname": "Winston",
+            "owners": [
+                "{55336532-2355-4948-859B-A70C4AA1BA07}"
+            ]
+        }
+    ]
+}
